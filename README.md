@@ -2,7 +2,7 @@
 ## Goal
 * In this demo, I use Rust create a simple game "Wordle", it is a popular online word guessing game, the player is given six attempts to guess a five-letter word chosen by the game's algorithm. After each guess, the game provides feedback on which letters in the guess are correct and in the correct position, which letters are correct but in the wrong position, and which letters are not in the word at all. Using this feedback, the player must guess the correct word before running out of attempts.
 * Overall, this code implements a functional and interactive CLI version of the Wordle game. It demonstrates various Rust features like enums, structs, methods, and modules.
-
+<img width="385" alt="Screen Shot 2023-03-17 at 12 35 52 AM" src="https://user-images.githubusercontent.com/112274822/225813607-cd6ddd91-c01d-4198-80de-5e6adcfe42c9.png">
 
 ## Prepration
 1. Set virtual environment: 
@@ -32,3 +32,7 @@
 
 ## eg. my results:
 <img width="510" alt="Screen Shot 2023-03-17 at 12 23 52 AM" src="https://user-images.githubusercontent.com/112274822/225812673-01080f57-81a4-44f1-aeb6-c676467be72b.png">
+
+### Reference:
+1. https://github.com/conradludgate/wordle
+2. https://github.com/scottluptowski/wordlet
