@@ -1,4 +1,4 @@
-# Jiaxin-week-10-mini-repo
+# Jiaxin-week-9-mini-repo
 ## Goal
 In this demo, I use Rust create a simple game "Wordle", it is a popular online word guessing game, the player is given six attempts to guess a five-letter word chosen by the game's algorithm. After each guess, the game provides feedback on which letters in the guess are correct and in the correct position, which letters are correct but in the wrong position, and which letters are not in the word at all. Using this feedback, the player must guess the correct word before running out of attempts.
 
